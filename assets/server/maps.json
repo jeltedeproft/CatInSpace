@@ -1,0 +1,48 @@
+[
+	{
+		"id": 0,
+		"name": "BASIC",
+		"width": 30,
+		"height": 30,
+		"tileWidth": 32,
+		"tileheight": 32,
+		"lights": [],
+		"blocks": [
+			{
+				"x": 110,
+				"y": 832,
+				"polygonPoints": "0,0 658,0 658,658 0,658"
+			}
+		],
+		"spawns": [
+			{
+				"name": "SPAWN1",
+				"x": 32,
+				"y": 800,
+				"width": 96,
+				"height": 96
+			},
+			{
+				"name": "SPAWN2",
+				"x": 32,
+				"y": 32,
+				"width": 96,
+				"height": 96
+			},
+			{
+				"name": "SPAWN3",
+				"x": 800,
+				"y": 32,
+				"width": 128,
+				"height": 96
+			},
+			{
+				"name": "SPAWN4",
+				"x": 800,
+				"y": 736,
+				"width": 128,
+				"height": 160
+			}
+		]
+	}
+]

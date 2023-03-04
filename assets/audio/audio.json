@@ -1,0 +1,65 @@
+[
+	{
+		"id": 0,
+		"name": "test",
+		"audioFileName": "audio/test.wav",
+		"volume": 1.0f,
+		"duration": 1.0f,
+	},
+	{
+		"id": 1,
+		"name": "hover",
+		"audioFileName": "audio/hover.wav",
+		"volume": 1.0f,
+		"duration": 1.0f,
+	},
+	{
+		"id": 2,
+		"name": "hurt",
+		"audioFileName": "audio/hurt.wav",
+		"volume": 1.0f,
+		"duration": 1.0f,
+	},
+	{
+		"id": 3,
+		"name": "nextScreen",
+		"audioFileName": "audio/nextScreen.wav",
+		"volume": 1.0f,
+		"duration": 1.0f,
+	},
+	{
+		"id": 4,
+		"name": "walk",
+		"audioFileName": "audio/walk.wav",
+		"volume": 1.0f,
+		"duration": 1.0f,
+	},
+	{
+		"id": 5,
+		"name": "water",
+		"audioFileName": "audio/water.wav",
+		"volume": 1.0f,
+		"duration": 1.0f,
+	},
+	{
+		"id": 6,
+		"name": "woosh",
+		"audioFileName": "audio/woosh.wav",
+		"volume": 1.0f,
+		"duration": 1.0f,
+	},
+	{
+		"id": 7,
+		"name": "mainMenu",
+		"audioFileName": "audio/mainMenu.wav",
+		"volume": 1.0f,
+		"duration": 1.0f,
+	},
+	{
+		"id": 8,
+		"name": "gameMusic",
+		"audioFileName": "audio/gameMusic.wav",
+		"volume": 1.0f,
+		"duration": 1.0f,
+	}
+]

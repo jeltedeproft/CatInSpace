@@ -1,0 +1,440 @@
+
+darkVisUIdarkgoon.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+white-pixel
+  rotate: false
+  xy: 778, 765
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Arrow Hover
+  rotate: false
+  xy: 1976, 1880
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Arrow Hover flipped
+  rotate: false
+  xy: 874, 787
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Arrow Normal
+  rotate: false
+  xy: 694, 446
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Arrow Normal flipped
+  rotate: false
+  xy: 1923, 1652
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Avatar
+  rotate: false
+  xy: 1334, 808
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+AvatarCircle
+  rotate: false
+  xy: 1923, 1933
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+BQ
+  rotate: false
+  xy: 1, 963
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+BarHealth
+  rotate: false
+  xy: 1159, 234
+  size: 251, 27
+  orig: 251, 27
+  offset: 0, 0
+  index: -1
+BarMana
+  rotate: false
+  xy: 1664, 472
+  size: 231, 27
+  orig: 231, 27
+  offset: 0, 0
+  index: -1
+Border
+  rotate: false
+  xy: 1426, 443
+  size: 208, 27
+  orig: 208, 27
+  offset: 0, 0
+  index: -1
+BqBar
+  rotate: false
+  xy: 1426, 472
+  size: 236, 27
+  orig: 236, 27
+  offset: 0, 0
+  index: -1
+Btn Info1 Hover
+  rotate: false
+  xy: 307, 30
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Btn Info1 Normal
+  rotate: false
+  xy: 1334, 767
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Btn Info2 Hover
+  rotate: false
+  xy: 1380, 767
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Btn Info2 Normal
+  rotate: false
+  xy: 601, 347
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Button Close Hover
+  rotate: false
+  xy: 601, 388
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+Button Close Normal
+  rotate: false
+  xy: 1923, 1875
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+Button Hover
+  rotate: false
+  xy: 1424, 395
+  size: 195, 46
+  orig: 195, 46
+  offset: 0, 0
+  index: -1
+Button Normal
+  rotate: false
+  xy: 1424, 347
+  size: 195, 46
+  orig: 195, 46
+  offset: 0, 0
+  index: -1
+Cell
+  rotate: false
+  xy: 778, 768
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+CheckBox01
+  rotate: false
+  xy: 830, 772
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+CheckBoxD01
+  rotate: false
+  xy: 830, 772
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+CheckBox02
+  rotate: false
+  xy: 694, 479
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+CheckBox03
+  rotate: false
+  xy: 601, 300
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+CheckBoxD02
+  rotate: false
+  xy: 601, 300
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+CheckBoxL01
+  rotate: false
+  xy: 1923, 1828
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+CheckBoxL02
+  rotate: false
+  xy: 1923, 1780
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+CheckBoxM01
+  rotate: false
+  xy: 1923, 1732
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+CheckBoxM02
+  rotate: false
+  xy: 1923, 1685
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Example icon spell
+  rotate: false
+  xy: 694, 527
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Full Panel
+  rotate: false
+  xy: 778, 219
+  size: 379, 544
+  orig: 379, 544
+  offset: 0, 0
+  index: -1
+Icon
+  rotate: false
+  xy: 742, 546
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Icon01
+  rotate: false
+  xy: 561, 249
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Icon02
+  rotate: false
+  xy: 1884, 933
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Icon2
+  rotate: false
+  xy: 654, 416
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Line Select Current
+  rotate: false
+  xy: 1424, 296
+  size: 155, 49
+  orig: 155, 49
+  offset: 0, 0
+  index: -1
+Line Select Hover
+  rotate: false
+  xy: 1424, 258
+  size: 143, 36
+  orig: 143, 36
+  offset: 0, 0
+  index: -1
+ListDownOff
+  rotate: false
+  xy: 353, 59
+  size: 265, 51
+  orig: 265, 51
+  offset: 0, 0
+  index: -1
+ListDownOn
+  rotate: false
+  xy: 1159, 552
+  size: 265, 211
+  orig: 265, 211
+  offset: 0, 0
+  index: -1
+MenuTitle
+  rotate: false
+  xy: 1159, 499
+  size: 265, 51
+  orig: 265, 51
+  offset: 0, 0
+  index: -1
+Overlay Border
+  rotate: false
+  xy: 900, 765
+  size: 432, 153
+  orig: 432, 153
+  offset: 0, 0
+  index: -1
+Overlay Border + Overlay Level
+  rotate: false
+  xy: 1450, 808
+  size: 432, 153
+  orig: 432, 153
+  offset: 0, 0
+  index: -1
+Overlay Level
+  rotate: false
+  xy: 1581, 301
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+Overlay Symbol & Number
+  rotate: false
+  xy: 1897, 478
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Overlay Title Game
+  rotate: false
+  xy: 1, 820
+  size: 897, 141
+  orig: 897, 141
+  offset: 0, 0
+  index: -1
+Panel
+  rotate: false
+  xy: 1159, 446
+  size: 265, 51
+  orig: 265, 51
+  offset: 0, 0
+  index: -1
+Panel + Border top
+  rotate: false
+  xy: 1, 112
+  size: 558, 165
+  orig: 558, 165
+  offset: 0, 0
+  index: -1
+Panel Money
+  rotate: false
+  xy: 1, 71
+  size: 350, 39
+  orig: 350, 39
+  offset: 0, 0
+  index: -1
+Panel Title
+  rotate: false
+  xy: 1, 21
+  size: 304, 48
+  orig: 304, 48
+  offset: 0, 0
+  index: -1
+Panel1
+  rotate: false
+  xy: 1, 657
+  size: 775, 161
+  orig: 775, 161
+  offset: 0, 0
+  index: -1
+Panel2
+  rotate: false
+  xy: 1, 279
+  size: 598, 165
+  orig: 598, 165
+  offset: 0, 0
+  index: -1
+Panel3
+  rotate: false
+  xy: 1426, 501
+  size: 246, 305
+  orig: 246, 305
+  offset: 0, 0
+  index: -1
+Panel4
+  rotate: false
+  xy: 1674, 501
+  size: 246, 305
+  orig: 246, 305
+  offset: 0, 0
+  index: -1
+Slider01
+  rotate: false
+  xy: 1, 1
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+Slider02
+  rotate: false
+  xy: 1636, 452
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+Slider03
+  rotate: false
+  xy: 1976, 1913
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+SubMenu
+  rotate: false
+  xy: 1159, 263
+  size: 263, 181
+  orig: 263, 181
+  offset: 0, 0
+  index: -1
+TextField
+  rotate: false
+  xy: 900, 920
+  size: 548, 41
+  orig: 548, 41
+  offset: 0, 0
+  index: -1
+Title Description
+  rotate: false
+  xy: 1, 446
+  size: 691, 209
+  orig: 691, 209
+  offset: 0, 0
+  index: -1
+windowdarkgoon
+  rotate: false
+  xy: 353, 41
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+windowdarkgoonbig
+  rotate: false
+  xy: 694, 575
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

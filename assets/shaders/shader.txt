@@ -1,0 +1,12 @@
+// Black screen
+// my step by step tutorial 1
+// by Arthur Stammet, 03.2019
+
+void mainImage( out vec4 fragColor, in vec2 fragCoord )
+{
+    vec2 p = (fragCoord-.5*iResolution.xy)/iResolution.y; // set center to the middle of the screen
+
+    vec3 col = vec3( 0.0, 0.0, 0.0 ); // black screen	
+
+    fragColor = vec4(col, 1.0);
+}
